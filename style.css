@@ -88,3 +88,22 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+
+@media (max-width: 576px){
+.mobile-img{
+  display: none;
+}
+.mobile-text{
+  text-align: center;
+}
+.navigation-links{
+  justify-content: center;
+}
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 35px;
+}
+}
