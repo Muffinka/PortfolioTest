@@ -102,6 +102,8 @@ p {
 }
 h1{
   font-size: 60px;
+  line-height: 0.9;
+  margin-bottom: 30px;
 }
 h2{
   font-size: 35px;
